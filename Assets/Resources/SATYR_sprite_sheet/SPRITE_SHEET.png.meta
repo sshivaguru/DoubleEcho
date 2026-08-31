@@ -1,0 +1,3107 @@
+fileFormatVersion: 2
+guid: d3cdce2e5df6f6a4c907133f816f57b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7950320164446702114
+    second: SPRITE_SHEET_0
+  - first:
+      213: 4514980014129705486
+    second: SPRITE_SHEET_1
+  - first:
+      213: 4138309587594586396
+    second: SPRITE_SHEET_2
+  - first:
+      213: 6846635071136524938
+    second: SPRITE_SHEET_3
+  - first:
+      213: 1885080102029736798
+    second: SPRITE_SHEET_4
+  - first:
+      213: -5474836351014394126
+    second: SPRITE_SHEET_5
+  - first:
+      213: 513872360166115499
+    second: SPRITE_SHEET_6
+  - first:
+      213: 3312881293865980997
+    second: SPRITE_SHEET_7
+  - first:
+      213: 477612422982021248
+    second: SPRITE_SHEET_8
+  - first:
+      213: -6007570485705403598
+    second: SPRITE_SHEET_9
+  - first:
+      213: 8429209556553970941
+    second: SPRITE_SHEET_10
+  - first:
+      213: 4440337159904332229
+    second: SPRITE_SHEET_11
+  - first:
+      213: -4863764417343486425
+    second: SPRITE_SHEET_12
+  - first:
+      213: 8947895309619178297
+    second: SPRITE_SHEET_13
+  - first:
+      213: 4570440461116592635
+    second: SPRITE_SHEET_14
+  - first:
+      213: -8556893409490882665
+    second: SPRITE_SHEET_15
+  - first:
+      213: 4460977393000807203
+    second: SPRITE_SHEET_16
+  - first:
+      213: 1892255375508798373
+    second: SPRITE_SHEET_17
+  - first:
+      213: 7903562892379627633
+    second: SPRITE_SHEET_18
+  - first:
+      213: -6352386234552819339
+    second: SPRITE_SHEET_19
+  - first:
+      213: -6902333972841785317
+    second: SPRITE_SHEET_20
+  - first:
+      213: 5927651606938207022
+    second: SPRITE_SHEET_21
+  - first:
+      213: 6718211242349356438
+    second: SPRITE_SHEET_22
+  - first:
+      213: 3916104700197421018
+    second: SPRITE_SHEET_23
+  - first:
+      213: -733613071193361861
+    second: SPRITE_SHEET_24
+  - first:
+      213: 3552543361761939010
+    second: SPRITE_SHEET_25
+  - first:
+      213: 76030805523488599
+    second: SPRITE_SHEET_26
+  - first:
+      213: -6342717163273939544
+    second: SPRITE_SHEET_27
+  - first:
+      213: -5255266587875719963
+    second: SPRITE_SHEET_28
+  - first:
+      213: 6497241894450104975
+    second: SPRITE_SHEET_29
+  - first:
+      213: 4498912924336645849
+    second: SPRITE_SHEET_30
+  - first:
+      213: 1356182242754531744
+    second: SPRITE_SHEET_31
+  - first:
+      213: -5256459659283337487
+    second: SPRITE_SHEET_32
+  - first:
+      213: -5052944988427568527
+    second: SPRITE_SHEET_33
+  - first:
+      213: 113900071612427874
+    second: SPRITE_SHEET_34
+  - first:
+      213: -4328873581689638071
+    second: SPRITE_SHEET_35
+  - first:
+      213: 3255399985833870065
+    second: SPRITE_SHEET_36
+  - first:
+      213: -3455897310046404607
+    second: SPRITE_SHEET_37
+  - first:
+      213: 8375846274807925606
+    second: SPRITE_SHEET_38
+  - first:
+      213: -5881889492377850929
+    second: SPRITE_SHEET_39
+  - first:
+      213: 870020004937416468
+    second: SPRITE_SHEET_40
+  - first:
+      213: 3171587466584632471
+    second: SPRITE_SHEET_41
+  - first:
+      213: -6224655946594806467
+    second: SPRITE_SHEET_42
+  - first:
+      213: 125353848057174905
+    second: SPRITE_SHEET_43
+  - first:
+      213: 5432225423508990983
+    second: SPRITE_SHEET_44
+  - first:
+      213: -4333447314487148853
+    second: SPRITE_SHEET_45
+  - first:
+      213: -6679149872592453616
+    second: SPRITE_SHEET_46
+  - first:
+      213: -6124882382338361425
+    second: SPRITE_SHEET_47
+  - first:
+      213: 2800549397391887241
+    second: SPRITE_SHEET_48
+  - first:
+      213: 5281708001054529310
+    second: SPRITE_SHEET_49
+  - first:
+      213: 9211274670338878291
+    second: SPRITE_SHEET_50
+  - first:
+      213: 5798446448816372598
+    second: SPRITE_SHEET_51
+  - first:
+      213: 2820420881017571437
+    second: SPRITE_SHEET_52
+  - first:
+      213: 724325958139882533
+    second: SPRITE_SHEET_53
+  - first:
+      213: 3857373547221563663
+    second: SPRITE_SHEET_54
+  - first:
+      213: 5043808839756409968
+    second: SPRITE_SHEET_55
+  - first:
+      213: 3365100930751602312
+    second: SPRITE_SHEET_56
+  - first:
+      213: 5875531916097480297
+    second: SPRITE_SHEET_57
+  - first:
+      213: 1497998159295964927
+    second: SPRITE_SHEET_58
+  - first:
+      213: -573180171132016128
+    second: SPRITE_SHEET_59
+  - first:
+      213: -1059343032306853614
+    second: SPRITE_SHEET_60
+  - first:
+      213: -2471975296173170338
+    second: SPRITE_SHEET_61
+  - first:
+      213: -5625379726615219912
+    second: SPRITE_SHEET_62
+  - first:
+      213: -1062088411753781073
+    second: SPRITE_SHEET_63
+  - first:
+      213: -8769491496387659519
+    second: SPRITE_SHEET_64
+  - first:
+      213: -8093669708495787605
+    second: SPRITE_SHEET_65
+  - first:
+      213: -1073608243371152141
+    second: SPRITE_SHEET_66
+  - first:
+      213: 3095969538794270021
+    second: SPRITE_SHEET_67
+  - first:
+      213: -4834322469144786845
+    second: SPRITE_SHEET_68
+  - first:
+      213: -1031155875472896446
+    second: SPRITE_SHEET_69
+  - first:
+      213: 4346492793966411334
+    second: SPRITE_SHEET_70
+  - first:
+      213: -8868090540383159480
+    second: SPRITE_SHEET_71
+  - first:
+      213: -51725164949245270
+    second: SPRITE_SHEET_72
+  - first:
+      213: 3681490643084272336
+    second: SPRITE_SHEET_73
+  - first:
+      213: -4291099359338327047
+    second: SPRITE_SHEET_74
+  - first:
+      213: -7158175056886455427
+    second: SPRITE_SHEET_75
+  - first:
+      213: -7880639457662201918
+    second: SPRITE_SHEET_76
+  - first:
+      213: 8314269319718707421
+    second: SPRITE_SHEET_77
+  - first:
+      213: 6878091241508294488
+    second: SPRITE_SHEET_78
+  - first:
+      213: -2312815793976748037
+    second: SPRITE_SHEET_79
+  - first:
+      213: 8149562643514581610
+    second: SPRITE_SHEET_80
+  - first:
+      213: 1387478368729866469
+    second: SPRITE_SHEET_81
+  - first:
+      213: 3382486169141257890
+    second: SPRITE_SHEET_82
+  - first:
+      213: -4437695086838614421
+    second: SPRITE_SHEET_83
+  - first:
+      213: 3004710895746071923
+    second: SPRITE_SHEET_84
+  - first:
+      213: 6333264880794488256
+    second: SPRITE_SHEET_85
+  - first:
+      213: -6583924161145331259
+    second: SPRITE_SHEET_86
+  - first:
+      213: -712925787558715824
+    second: SPRITE_SHEET_87
+  - first:
+      213: -923624069782603389
+    second: SPRITE_SHEET_88
+  - first:
+      213: -6845200314868362936
+    second: SPRITE_SHEET_89
+  - first:
+      213: 6943887692265229398
+    second: SPRITE_SHEET_90
+  - first:
+      213: 2487172252465678025
+    second: SPRITE_SHEET_91
+  - first:
+      213: 7121926557211605463
+    second: SPRITE_SHEET_92
+  - first:
+      213: -5493303027701329884
+    second: SPRITE_SHEET_93
+  - first:
+      213: -7866170853018344575
+    second: SPRITE_SHEET_94
+  - first:
+      213: -7592725208717272937
+    second: SPRITE_SHEET_95
+  - first:
+      213: 4433795616376422619
+    second: SPRITE_SHEET_96
+  - first:
+      213: 9170633303459393462
+    second: SPRITE_SHEET_97
+  - first:
+      213: 62172410109336312
+    second: SPRITE_SHEET_98
+  - first:
+      213: -6784374684429034562
+    second: SPRITE_SHEET_99
+  - first:
+      213: -4554634597405523612
+    second: SPRITE_SHEET_100
+  - first:
+      213: -8008487305941913199
+    second: SPRITE_SHEET_101
+  - first:
+      213: 1340675373611180872
+    second: SPRITE_SHEET_102
+  - first:
+      213: 40912218291632177
+    second: SPRITE_SHEET_103
+  - first:
+      213: -3414272874859731643
+    second: SPRITE_SHEET_104
+  - first:
+      213: 9028319200611462523
+    second: SPRITE_SHEET_105
+  - first:
+      213: -1662023421411562226
+    second: SPRITE_SHEET_106
+  - first:
+      213: -4343785874382079953
+    second: SPRITE_SHEET_107
+  - first:
+      213: -2575651871557414575
+    second: SPRITE_SHEET_108
+  - first:
+      213: -4867121376161705935
+    second: SPRITE_SHEET_109
+  - first:
+      213: -8945035647402568127
+    second: Satyr_0
+  - first:
+      213: 3779756275584978996
+    second: Satyr_1
+  - first:
+      213: 4435572190397635915
+    second: Satyr_2
+  - first:
+      213: 3886764977671517256
+    second: Satyr_3
+  - first:
+      213: 8606766836585963392
+    second: Satyr_4
+  - first:
+      213: -8221466804226621862
+    second: Satyr_5
+  - first:
+      213: -6797166095057258567
+    second: Satyr_6
+  - first:
+      213: 446628360381900359
+    second: Satyr_7
+  - first:
+      213: 136115338225762181
+    second: Satyr_8
+  - first:
+      213: 1984617496243130678
+    second: Satyr_9
+  - first:
+      213: 6970909554357815676
+    second: Satyr_10
+  - first:
+      213: 2817537534425010730
+    second: Satyr_11
+  - first:
+      213: 6374331401004384427
+    second: Satyr_12
+  - first:
+      213: -574512782779116670
+    second: Satyr_13
+  - first:
+      213: -8699253125644864680
+    second: Satyr_14
+  - first:
+      213: 7402076508753592144
+    second: Satyr_15
+  - first:
+      213: 8791745890660042470
+    second: Satyr_16
+  - first:
+      213: -9150664126191750856
+    second: Satyr_17
+  - first:
+      213: 8955818243441082855
+    second: Satyr_18
+  - first:
+      213: 6869733842704995207
+    second: Satyr_19
+  - first:
+      213: 1001950936452558713
+    second: Satyr_20
+  - first:
+      213: 4214324374106375608
+    second: Satyr_21
+  - first:
+      213: -4417524376165557084
+    second: Satyr_22
+  - first:
+      213: 8350780577412369513
+    second: Satyr_23
+  - first:
+      213: 4513322677196461824
+    second: Satyr_24
+  - first:
+      213: 5545215242555273483
+    second: Satyr_25
+  - first:
+      213: -6322932867205245969
+    second: Satyr_26
+  - first:
+      213: 6092212457170435448
+    second: Satyr_27
+  - first:
+      213: 7577005801420481661
+    second: Satyr_28
+  - first:
+      213: -8662049142035812430
+    second: Satyr_29
+  - first:
+      213: -1917730919454267606
+    second: Satyr_30
+  - first:
+      213: 4421356605704845993
+    second: Satyr_31
+  - first:
+      213: 5089413952302268434
+    second: Satyr_32
+  - first:
+      213: -3010866452885907189
+    second: Satyr_33
+  - first:
+      213: 791550615545204805
+    second: Satyr_34
+  - first:
+      213: -1436207554015643996
+    second: Satyr_35
+  - first:
+      213: -7987892948817282958
+    second: Satyr_36
+  - first:
+      213: 3568120725307196032
+    second: Satyr_37
+  - first:
+      213: 1221289323216769154
+    second: Satyr_38
+  - first:
+      213: 4638049706392894780
+    second: Satyr_39
+  - first:
+      213: -2034643791808344910
+    second: Satyr_40
+  - first:
+      213: -2098798789932329828
+    second: Satyr_41
+  - first:
+      213: -4182909068154377560
+    second: Satyr_42
+  - first:
+      213: 3354653565849285726
+    second: Satyr_43
+  - first:
+      213: 2596266356822122658
+    second: Satyr_44
+  - first:
+      213: -7309877732433170758
+    second: Satyr_45
+  - first:
+      213: 4558250310050160365
+    second: Satyr_46
+  - first:
+      213: 275007800981169580
+    second: Satyr_47
+  - first:
+      213: -2086209899947642776
+    second: Satyr_48
+  - first:
+      213: 3015789271737955473
+    second: Satyr_49
+  - first:
+      213: 1058037671752829991
+    second: Satyr_50
+  - first:
+      213: 7853941498830718355
+    second: Satyr_51
+  - first:
+      213: -7374756255597664667
+    second: Satyr_52
+  - first:
+      213: -2098557254513515498
+    second: Satyr_53
+  - first:
+      213: -6937267694864051119
+    second: Satyr_54
+  - first:
+      213: 8481776489676046086
+    second: Satyr_55
+  - first:
+      213: -5849325962857405469
+    second: Satyr_56
+  - first:
+      213: -5379048811879896680
+    second: Satyr_57
+  - first:
+      213: -1493131701187410476
+    second: Satyr_58
+  - first:
+      213: -2408782192302802592
+    second: Satyr_59
+  - first:
+      213: 6009088899247520348
+    second: Satyr_60
+  - first:
+      213: -2002874723087111042
+    second: Satyr_61
+  - first:
+      213: -7523653893302780125
+    second: Satyr_62
+  - first:
+      213: 277668944977015416
+    second: Satyr_63
+  - first:
+      213: 107074349265136148
+    second: Satyr_64
+  - first:
+      213: 3294371119590891399
+    second: Satyr_65
+  - first:
+      213: 7754817408277993966
+    second: Satyr_66
+  - first:
+      213: 1416647280880635249
+    second: Satyr_67
+  - first:
+      213: 4989952710624194374
+    second: Satyr_68
+  - first:
+      213: -3131969213342343488
+    second: Satyr_69
+  - first:
+      213: -662323569633660075
+    second: Satyr_70
+  - first:
+      213: -5190353115277453438
+    second: Satyr_71
+  - first:
+      213: -8964328982287859879
+    second: Satyr_72
+  - first:
+      213: -2731525449854310556
+    second: Satyr_73
+  - first:
+      213: -3122459346857669866
+    second: Satyr_74
+  - first:
+      213: -8582938271878388403
+    second: Satyr_75
+  - first:
+      213: 2158576397888046081
+    second: Satyr_76
+  - first:
+      213: 7972648132673395426
+    second: Satyr_77
+  - first:
+      213: -7399129796880266118
+    second: Satyr_78
+  - first:
+      213: -10734736600275214
+    second: Satyr_79
+  - first:
+      213: 7830553428582117573
+    second: Satyr_80
+  - first:
+      213: -8873526187596081874
+    second: Satyr_81
+  - first:
+      213: -8927296547711526187
+    second: Satyr_82
+  - first:
+      213: -874515550622197256
+    second: Satyr_83
+  - first:
+      213: 7305647726547932797
+    second: Satyr_84
+  - first:
+      213: -5024843594219743960
+    second: Satyr_85
+  - first:
+      213: 5449474602600978529
+    second: Satyr_86
+  - first:
+      213: 5339291789451287743
+    second: Satyr_87
+  - first:
+      213: -5385623715579065825
+    second: Satyr_88
+  - first:
+      213: 7527249694060583053
+    second: Satyr_89
+  - first:
+      213: 4295149130310260401
+    second: Satyr_90
+  - first:
+      213: 8541761649410178660
+    second: Satyr_91
+  - first:
+      213: 4522354560247239845
+    second: Satyr_92
+  - first:
+      213: -213460169027366820
+    second: Satyr_93
+  - first:
+      213: 5698890214383957865
+    second: Satyr_94
+  - first:
+      213: -3226687339801462757
+    second: Satyr_95
+  - first:
+      213: -6402824858016239070
+    second: Satyr_96
+  - first:
+      213: 4773659971643172743
+    second: Satyr_97
+  - first:
+      213: 8820248867488806923
+    second: Satyr_98
+  - first:
+      213: 6879142839453417356
+    second: Satyr_99
+  - first:
+      213: 5817562601163090602
+    second: Satyr_100
+  - first:
+      213: -8460183018272539930
+    second: Satyr_101
+  - first:
+      213: 6888936324394788972
+    second: Satyr_102
+  - first:
+      213: -8517855640369890008
+    second: Satyr_103
+  - first:
+      213: -8049428324375418368
+    second: Satyr_104
+  - first:
+      213: 2483041028995674747
+    second: Satyr_105
+  - first:
+      213: -5394514500600006253
+    second: Satyr_106
+  - first:
+      213: 6881464668046088722
+    second: Satyr_107
+  - first:
+      213: -3323607629174194406
+    second: Satyr_108
+  - first:
+      213: 6417172205664668939
+    second: Satyr_109
+  - first:
+      213: -828884662515627168
+    second: Satyr_R0_C0
+  - first:
+      213: 463894001572451250
+    second: Satyr_R0_C1
+  - first:
+      213: -6798081555360156380
+    second: Satyr_R0_C2
+  - first:
+      213: 7640569072037935293
+    second: Satyr_R0_C3
+  - first:
+      213: -479000774937584061
+    second: Satyr_R0_C4
+  - first:
+      213: -2801233341079555451
+    second: Satyr_R0_C5
+  - first:
+      213: 2188433258876946078
+    second: Satyr_R0_C6
+  - first:
+      213: -6023839427038055119
+    second: Satyr_R0_C7
+  - first:
+      213: -3400662973947802526
+    second: Satyr_R0_C8
+  - first:
+      213: 366567094368340497
+    second: Satyr_R0_C9
+  - first:
+      213: -6657289594188671484
+    second: Satyr_R1_C0
+  - first:
+      213: -1880575341928242591
+    second: Satyr_R1_C1
+  - first:
+      213: -6276460773388989526
+    second: Satyr_R1_C2
+  - first:
+      213: 3707665620491717514
+    second: Satyr_R1_C3
+  - first:
+      213: 7495509684975008999
+    second: Satyr_R1_C4
+  - first:
+      213: -8412520347782249731
+    second: Satyr_R1_C5
+  - first:
+      213: 1590054575698300761
+    second: Satyr_R1_C6
+  - first:
+      213: -831578764133115722
+    second: Satyr_R1_C7
+  - first:
+      213: -4242142491280439903
+    second: Satyr_R1_C8
+  - first:
+      213: -6829426389431821305
+    second: Satyr_R1_C9
+  - first:
+      213: 8208172972721939878
+    second: Satyr_R2_C0
+  - first:
+      213: -8851319365740954584
+    second: Satyr_R2_C1
+  - first:
+      213: -8455694344626074010
+    second: Satyr_R2_C2
+  - first:
+      213: 7238553047770315237
+    second: Satyr_R2_C3
+  - first:
+      213: 8792573329952979307
+    second: Satyr_R2_C4
+  - first:
+      213: -8687419299038344915
+    second: Satyr_R2_C5
+  - first:
+      213: -5590727885388801892
+    second: Satyr_R2_C6
+  - first:
+      213: 3498030685322284453
+    second: Satyr_R2_C7
+  - first:
+      213: -4919206449696300777
+    second: Satyr_R2_C8
+  - first:
+      213: -7377925702533871103
+    second: Satyr_R2_C9
+  - first:
+      213: 2360100990578141951
+    second: Satyr_R3_C0
+  - first:
+      213: 4148174143503682439
+    second: Satyr_R3_C1
+  - first:
+      213: -2458445740341926404
+    second: Satyr_R3_C2
+  - first:
+      213: 1067042038617158504
+    second: Satyr_R3_C3
+  - first:
+      213: -1584900456506397662
+    second: Satyr_R3_C4
+  - first:
+      213: 5656797508111042294
+    second: Satyr_R3_C5
+  - first:
+      213: 3469738518114173410
+    second: Satyr_R3_C6
+  - first:
+      213: 1307391363536590490
+    second: Satyr_R3_C7
+  - first:
+      213: 5595926343876084408
+    second: Satyr_R3_C8
+  - first:
+      213: 6781222975818929063
+    second: Satyr_R3_C9
+  - first:
+      213: 452478002412363307
+    second: Satyr_R4_C0
+  - first:
+      213: 380767257273874610
+    second: Satyr_R4_C1
+  - first:
+      213: -416640726739958608
+    second: Satyr_R4_C2
+  - first:
+      213: 4472876937027105662
+    second: Satyr_R4_C3
+  - first:
+      213: 7276995828547325210
+    second: Satyr_R4_C4
+  - first:
+      213: -6401903243638375735
+    second: Satyr_R4_C5
+  - first:
+      213: -2383942291150674441
+    second: Satyr_R4_C6
+  - first:
+      213: -382591998298350312
+    second: Satyr_R4_C7
+  - first:
+      213: 600389360962779520
+    second: Satyr_R4_C8
+  - first:
+      213: -2747475782750329436
+    second: Satyr_R4_C9
+  - first:
+      213: -6480583995426506649
+    second: Satyr_R5_C0
+  - first:
+      213: -5818377466728213811
+    second: Satyr_R5_C1
+  - first:
+      213: 5863470162664083895
+    second: Satyr_R5_C2
+  - first:
+      213: 1938680098218386882
+    second: Satyr_R5_C3
+  - first:
+      213: -5359501900817377811
+    second: Satyr_R5_C4
+  - first:
+      213: -5489642646269528276
+    second: Satyr_R5_C5
+  - first:
+      213: 3387252860752025123
+    second: Satyr_R5_C6
+  - first:
+      213: 4697127473841662244
+    second: Satyr_R5_C7
+  - first:
+      213: 8601520687855945744
+    second: Satyr_R5_C8
+  - first:
+      213: 2955476625935210357
+    second: Satyr_R5_C9
+  - first:
+      213: -8422426956944058047
+    second: Satyr_R6_C0
+  - first:
+      213: -9181540949179408738
+    second: Satyr_R6_C1
+  - first:
+      213: -6760042426829390546
+    second: Satyr_R6_C2
+  - first:
+      213: 2399610669086636129
+    second: Satyr_R6_C3
+  - first:
+      213: -4542043696978155525
+    second: Satyr_R6_C4
+  - first:
+      213: -7204712728415330199
+    second: Satyr_R6_C5
+  - first:
+      213: 4488248414170933226
+    second: Satyr_R6_C6
+  - first:
+      213: -1432148826287390547
+    second: Satyr_R6_C7
+  - first:
+      213: -2368306789481456229
+    second: Satyr_R6_C8
+  - first:
+      213: -3453935433790634
+    second: Satyr_R6_C9
+  - first:
+      213: 429099989392934303
+    second: Satyr_R7_C0
+  - first:
+      213: -7700080245532932386
+    second: Satyr_R7_C1
+  - first:
+      213: 1350069840584142184
+    second: Satyr_R7_C2
+  - first:
+      213: 1407669772327418450
+    second: Satyr_R7_C3
+  - first:
+      213: 9063502740388068783
+    second: Satyr_R7_C4
+  - first:
+      213: 4846538792511733715
+    second: Satyr_R7_C5
+  - first:
+      213: -127564668026664084
+    second: Satyr_R7_C6
+  - first:
+      213: 9098553240888729179
+    second: Satyr_R7_C7
+  - first:
+      213: 6572742095215137057
+    second: Satyr_R7_C8
+  - first:
+      213: 8549507294744588681
+    second: Satyr_R7_C9
+  - first:
+      213: -1351972212189163734
+    second: Satyr_R8_C0
+  - first:
+      213: -7340447371141340824
+    second: Satyr_R8_C1
+  - first:
+      213: -1141922644223870659
+    second: Satyr_R8_C2
+  - first:
+      213: 8367580410293019585
+    second: Satyr_R8_C3
+  - first:
+      213: 3042235877364188145
+    second: Satyr_R8_C4
+  - first:
+      213: -8338303016280550207
+    second: Satyr_R8_C5
+  - first:
+      213: -5348323647159925134
+    second: Satyr_R8_C6
+  - first:
+      213: 4598347161325836087
+    second: Satyr_R8_C7
+  - first:
+      213: 6492889394162336696
+    second: Satyr_R8_C8
+  - first:
+      213: -4828919822784678600
+    second: Satyr_R8_C9
+  - first:
+      213: -2750680650376583006
+    second: Satyr_R9_C0
+  - first:
+      213: 4871434038289086062
+    second: Satyr_R9_C1
+  - first:
+      213: 4907759876140380599
+    second: Satyr_R9_C2
+  - first:
+      213: -8411289188580681182
+    second: Satyr_R9_C3
+  - first:
+      213: 5036012792807709820
+    second: Satyr_R9_C4
+  - first:
+      213: -1959993508048578172
+    second: Satyr_R9_C5
+  - first:
+      213: -8693082886739214531
+    second: Satyr_R9_C6
+  - first:
+      213: 7941598695401437525
+    second: Satyr_R9_C7
+  - first:
+      213: -7297498041957763495
+    second: Satyr_R9_C8
+  - first:
+      213: -5502061838597747789
+    second: Satyr_R9_C9
+  - first:
+      213: 5578017639636886622
+    second: Satyr_R10_C0
+  - first:
+      213: 6896709959558203549
+    second: Satyr_R10_C1
+  - first:
+      213: -5821740782220475990
+    second: Satyr_R10_C2
+  - first:
+      213: -7205180671249707857
+    second: Satyr_R10_C3
+  - first:
+      213: 8016807613706666743
+    second: Satyr_R10_C4
+  - first:
+      213: -1200050118220792300
+    second: Satyr_R10_C5
+  - first:
+      213: 6143157808906035284
+    second: Satyr_R10_C6
+  - first:
+      213: 1229005179789213444
+    second: Satyr_R10_C7
+  - first:
+      213: -5258403562608124686
+    second: Satyr_R10_C8
+  - first:
+      213: 4191035158969984926
+    second: Satyr_R10_C9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Satyr_R0_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b8cf28ac53f74f0800000000000000
+      internalID: -828884662515627168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R0_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b31929f225107600800000000000000
+      internalID: 463894001572451250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R0_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4257f9ad7dc58a1a0800000000000000
+      internalID: -6798081555360156380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R0_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db838ace611c80a60800000000000000
+      internalID: 7640569072037935293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R0_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e55b2455f3a59f0800000000000000
+      internalID: -479000774937584061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R0_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582f8fb2e150029d0800000000000000
+      internalID: -2801233341079555451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406da7bc26e8c93a0800000000000000
+      internalID: -6657289594188671484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1622203b0bad6e5e0800000000000000
+      internalID: -1880575341928242591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabc9734e2885e8a0800000000000000
+      internalID: -6276460773388989526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b465fdc36447330800000000000000
+      internalID: 3707665620491717514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec7f677856650860800000000000000
+      internalID: 7495509684975008999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df281bca059b04b80800000000000000
+      internalID: -8412520347782249731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f4bfd4632011610800000000000000
+      internalID: 1590054575698300761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R1_C7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b856191583a574f0800000000000000
+      internalID: -831578764133115722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R2_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ad0674d949e170800000000000000
+      internalID: 8208172972721939878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R2_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c7973eeebc92580800000000000000
+      internalID: -8851319365740954584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R2_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e88433bc657aa80800000000000000
+      internalID: -8455694344626074010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R2_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9bb2c35a1847460800000000000000
+      internalID: 7238553047770315237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R3_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa2579b853c0c020800000000000000
+      internalID: 2360100990578141951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R3_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b4ff1d766419930800000000000000
+      internalID: 4148174143503682439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R3_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e853ef98d1edd0800000000000000
+      internalID: -2458445740341926404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R3_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8633f28a415eece00800000000000000
+      internalID: 1067042038617158504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R3_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce4959e6d410ae0800000000000000
+      internalID: -1584900456506397662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R3_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60645dc5bf08e40800000000000000
+      internalID: 5656797508111042294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R3_C6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18fab7cccf62030800000000000000
+      internalID: 3469738518114173410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R4_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e977a8856874600800000000000000
+      internalID: 452478002412363307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R4_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b8e79dc1c84500800000000000000
+      internalID: 380767257273874610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R4_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b444bb677bc73af0800000000000000
+      internalID: -416640726739958608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R4_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73b98b30e9d21e30800000000000000
+      internalID: 4472876937027105662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R4_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d0090a6251df460800000000000000
+      internalID: 7276995828547325210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R4_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca738c2beed727a0800000000000000
+      internalID: -6401903243638375735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R5_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768758711375016a0800000000000000
+      internalID: -6480583995426506649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R5_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc217866588f04fa0800000000000000
+      internalID: -5818377466728213811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R5_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d1b40c0b3f5150800000000000000
+      internalID: 5863470162664083895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R5_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52d6b174397ea10800000000000000
+      internalID: 1938680098218386882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R5_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5dfb4ca693f95b0800000000000000
+      internalID: -5359501900817377811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R5_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f44d391fd0d3b0800000000000000
+      internalID: -5489642646269528276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149dcac7e478d1b80800000000000000
+      internalID: -8422426956944058047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5571172d949080800000000000000
+      internalID: -9181540949179408738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db342aa318f22a0800000000000000
+      internalID: -6760042426829390546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168752a90312d4120800000000000000
+      internalID: 2399610669086636129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a057825b67f0c0800000000000000
+      internalID: -4542043696978155525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a11a12f7b30c90800000000000000
+      internalID: -7204712728415330199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae76e562726794e30800000000000000
+      internalID: 4488248414170933226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c5a7fa3cff1ce0800000000000000
+      internalID: -1432148826287390547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ddfc5d585122fd0800000000000000
+      internalID: -2368306789481456229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R6_C9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b446df9aab3fff0800000000000000
+      internalID: -3453935433790634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R7_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95c3e8ba2874f500800000000000000
+      internalID: 429099989392934303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R7_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6c10f30d1d32590800000000000000
+      internalID: -7700080245532932386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R7_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d6cf5fd596cb210800000000000000
+      internalID: 1350069840584142184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R7_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a71a4233c098310800000000000000
+      internalID: 1407669772327418450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R8_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f0442af64dc3de0800000000000000
+      internalID: -1351972212189163734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R8_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861abaed10e712a90800000000000000
+      internalID: -7340447371141340824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R8_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39bf0eb7631720f0800000000000000
+      internalID: -1141922644223870659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R8_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c36801cc0e9f1470800000000000000
+      internalID: 8367580410293019585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R8_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3cd397961383a20800000000000000
+      internalID: 3042235877364188145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R8_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4970db595684c80800000000000000
+      internalID: -8338303016280550207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a863cfa58e93d9d0800000000000000
+      internalID: -2750680650376583006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66b7f6a27fca9340800000000000000
+      internalID: 4871434038289086062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1334cda9ddb1440800000000000000
+      internalID: 4907759876140380599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a90934c09154b80800000000000000
+      internalID: -8411289188580681182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c50aff3f283e540800000000000000
+      internalID: 5036012792807709820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48951b6f944bcc4e0800000000000000
+      internalID: -1959993508048578172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fb1e42c27fb5780800000000000000
+      internalID: -8693082886739214531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559bb14efe9363e60800000000000000
+      internalID: 7941598695401437525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956bff3d1341aba90800000000000000
+      internalID: -7297498041957763495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R9_C9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb0622b8efb4a3b0800000000000000
+      internalID: -5502061838597747789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e546b695d79196d40800000000000000
+      internalID: 5578017639636886622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d988d5afa2906bf50800000000000000
+      internalID: 6896709959558203549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1085d7a95053fa0800000000000000
+      internalID: -5821740782220475990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac86abaa5e020c90800000000000000
+      internalID: -7205180671249707857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f202afbc0c614f60800000000000000
+      internalID: 8016807613706666743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eb8ce86c0985fe0800000000000000
+      internalID: -1200050118220792300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450e207ba71e04550800000000000000
+      internalID: 6143157808906035284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f737013bd4e0110800000000000000
+      internalID: 1229005179789213444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc181de1d56607b0800000000000000
+      internalID: -5258403562608124686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Satyr_R10_C9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e972493a54c892a30800000000000000
+      internalID: 4191035158969984926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4526609ed49a244b925694e6e5a0d0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SPRITE_SHEET_0: -7950320164446702114
+      SPRITE_SHEET_1: 4514980014129705486
+      SPRITE_SHEET_10: 8429209556553970941
+      SPRITE_SHEET_11: 4440337159904332229
+      SPRITE_SHEET_12: -4863764417343486425
+      SPRITE_SHEET_13: 8947895309619178297
+      SPRITE_SHEET_14: 4570440461116592635
+      SPRITE_SHEET_15: -8556893409490882665
+      SPRITE_SHEET_16: 4460977393000807203
+      SPRITE_SHEET_17: 1892255375508798373
+      SPRITE_SHEET_18: 7903562892379627633
+      SPRITE_SHEET_19: -6352386234552819339
+      SPRITE_SHEET_2: 4138309587594586396
+      SPRITE_SHEET_20: -6902333972841785317
+      SPRITE_SHEET_21: 5927651606938207022
+      SPRITE_SHEET_22: 6718211242349356438
+      SPRITE_SHEET_23: 3916104700197421018
+      SPRITE_SHEET_24: -733613071193361861
+      SPRITE_SHEET_25: 3552543361761939010
+      SPRITE_SHEET_26: 76030805523488599
+      SPRITE_SHEET_27: -6342717163273939544
+      SPRITE_SHEET_28: -5255266587875719963
+      SPRITE_SHEET_29: 6497241894450104975
+      SPRITE_SHEET_3: 6846635071136524938
+      SPRITE_SHEET_30: 4498912924336645849
+      SPRITE_SHEET_31: 1356182242754531744
+      SPRITE_SHEET_32: -5256459659283337487
+      SPRITE_SHEET_33: -5052944988427568527
+      SPRITE_SHEET_34: 113900071612427874
+      SPRITE_SHEET_35: -4328873581689638071
+      SPRITE_SHEET_36: 3255399985833870065
+      SPRITE_SHEET_37: -3455897310046404607
+      SPRITE_SHEET_38: 8375846274807925606
+      SPRITE_SHEET_39: -5881889492377850929
+      SPRITE_SHEET_4: 1885080102029736798
+      SPRITE_SHEET_40: 870020004937416468
+      SPRITE_SHEET_41: 3171587466584632471
+      SPRITE_SHEET_42: -6224655946594806467
+      SPRITE_SHEET_43: 125353848057174905
+      SPRITE_SHEET_44: 5432225423508990983
+      SPRITE_SHEET_45: -4333447314487148853
+      SPRITE_SHEET_46: -6679149872592453616
+      SPRITE_SHEET_47: -6124882382338361425
+      SPRITE_SHEET_48: 2800549397391887241
+      SPRITE_SHEET_49: 5281708001054529310
+      SPRITE_SHEET_5: -5474836351014394126
+      SPRITE_SHEET_50: 9211274670338878291
+      SPRITE_SHEET_51: 5798446448816372598
+      SPRITE_SHEET_52: 2820420881017571437
+      SPRITE_SHEET_53: 724325958139882533
+      SPRITE_SHEET_54: 3857373547221563663
+      SPRITE_SHEET_55: 5043808839756409968
+      SPRITE_SHEET_56: 3365100930751602312
+      SPRITE_SHEET_57: 5875531916097480297
+      SPRITE_SHEET_58: 1497998159295964927
+      SPRITE_SHEET_59: -573180171132016128
+      SPRITE_SHEET_6: 513872360166115499
+      SPRITE_SHEET_60: -1059343032306853614
+      SPRITE_SHEET_61: -2471975296173170338
+      SPRITE_SHEET_62: -5625379726615219912
+      SPRITE_SHEET_63: -1062088411753781073
+      SPRITE_SHEET_64: -8769491496387659519
+      SPRITE_SHEET_65: -8093669708495787605
+      SPRITE_SHEET_66: -1073608243371152141
+      SPRITE_SHEET_67: 3095969538794270021
+      SPRITE_SHEET_68: -4834322469144786845
+      SPRITE_SHEET_69: -1031155875472896446
+      SPRITE_SHEET_7: 3312881293865980997
+      SPRITE_SHEET_70: 4346492793966411334
+      SPRITE_SHEET_71: -8868090540383159480
+      SPRITE_SHEET_72: -51725164949245270
+      SPRITE_SHEET_73: 3681490643084272336
+      SPRITE_SHEET_74: -4291099359338327047
+      SPRITE_SHEET_75: -7158175056886455427
+      SPRITE_SHEET_76: -7880639457662201918
+      SPRITE_SHEET_77: 8314269319718707421
+      SPRITE_SHEET_78: 6878091241508294488
+      SPRITE_SHEET_79: -2312815793976748037
+      SPRITE_SHEET_8: 477612422982021248
+      SPRITE_SHEET_80: 8149562643514581610
+      SPRITE_SHEET_81: 1387478368729866469
+      SPRITE_SHEET_82: 3382486169141257890
+      SPRITE_SHEET_83: -4437695086838614421
+      SPRITE_SHEET_9: -6007570485705403598
+      Satyr_0: -8945035647402568127
+      Satyr_1: 3779756275584978996
+      Satyr_10: 6970909554357815676
+      Satyr_100: 5817562601163090602
+      Satyr_101: -8460183018272539930
+      Satyr_102: 6888936324394788972
+      Satyr_103: -8517855640369890008
+      Satyr_104: -8049428324375418368
+      Satyr_105: 2483041028995674747
+      Satyr_106: -5394514500600006253
+      Satyr_107: 6881464668046088722
+      Satyr_108: -3323607629174194406
+      Satyr_109: 6417172205664668939
+      Satyr_11: 2817537534425010730
+      Satyr_12: 6374331401004384427
+      Satyr_13: -574512782779116670
+      Satyr_14: -8699253125644864680
+      Satyr_15: 7402076508753592144
+      Satyr_16: 8791745890660042470
+      Satyr_17: -9150664126191750856
+      Satyr_18: 8955818243441082855
+      Satyr_19: 6869733842704995207
+      Satyr_2: 4435572190397635915
+      Satyr_20: 1001950936452558713
+      Satyr_21: 4214324374106375608
+      Satyr_22: -4417524376165557084
+      Satyr_23: 8350780577412369513
+      Satyr_24: 4513322677196461824
+      Satyr_25: 5545215242555273483
+      Satyr_26: -6322932867205245969
+      Satyr_27: 6092212457170435448
+      Satyr_28: 7577005801420481661
+      Satyr_29: -8662049142035812430
+      Satyr_3: 3886764977671517256
+      Satyr_30: -1917730919454267606
+      Satyr_31: 4421356605704845993
+      Satyr_32: 5089413952302268434
+      Satyr_33: -3010866452885907189
+      Satyr_34: 791550615545204805
+      Satyr_35: -1436207554015643996
+      Satyr_36: -7987892948817282958
+      Satyr_37: 3568120725307196032
+      Satyr_38: 1221289323216769154
+      Satyr_39: 4638049706392894780
+      Satyr_4: 8606766836585963392
+      Satyr_40: -2034643791808344910
+      Satyr_41: -2098798789932329828
+      Satyr_42: -4182909068154377560
+      Satyr_43: 3354653565849285726
+      Satyr_44: 2596266356822122658
+      Satyr_45: -7309877732433170758
+      Satyr_46: 4558250310050160365
+      Satyr_47: 275007800981169580
+      Satyr_48: -2086209899947642776
+      Satyr_49: 3015789271737955473
+      Satyr_5: -8221466804226621862
+      Satyr_50: 1058037671752829991
+      Satyr_51: 7853941498830718355
+      Satyr_52: -7374756255597664667
+      Satyr_53: -2098557254513515498
+      Satyr_54: -6937267694864051119
+      Satyr_55: 8481776489676046086
+      Satyr_56: -5849325962857405469
+      Satyr_57: -5379048811879896680
+      Satyr_58: -1493131701187410476
+      Satyr_59: -2408782192302802592
+      Satyr_6: -6797166095057258567
+      Satyr_60: 6009088899247520348
+      Satyr_61: -2002874723087111042
+      Satyr_62: -7523653893302780125
+      Satyr_63: 277668944977015416
+      Satyr_64: 107074349265136148
+      Satyr_65: 3294371119590891399
+      Satyr_66: 7754817408277993966
+      Satyr_67: 1416647280880635249
+      Satyr_68: 4989952710624194374
+      Satyr_69: -3131969213342343488
+      Satyr_7: 446628360381900359
+      Satyr_70: -662323569633660075
+      Satyr_71: -5190353115277453438
+      Satyr_72: -8964328982287859879
+      Satyr_73: -2731525449854310556
+      Satyr_74: -3122459346857669866
+      Satyr_75: -8582938271878388403
+      Satyr_76: 2158576397888046081
+      Satyr_77: 7972648132673395426
+      Satyr_78: -7399129796880266118
+      Satyr_79: -10734736600275214
+      Satyr_8: 136115338225762181
+      Satyr_80: 7830553428582117573
+      Satyr_81: -8873526187596081874
+      Satyr_82: -8927296547711526187
+      Satyr_83: -874515550622197256
+      Satyr_84: 7305647726547932797
+      Satyr_85: -5024843594219743960
+      Satyr_86: 5449474602600978529
+      Satyr_87: 5339291789451287743
+      Satyr_88: -5385623715579065825
+      Satyr_89: 7527249694060583053
+      Satyr_9: 1984617496243130678
+      Satyr_90: 4295149130310260401
+      Satyr_91: 8541761649410178660
+      Satyr_92: 4522354560247239845
+      Satyr_93: -213460169027366820
+      Satyr_94: 5698890214383957865
+      Satyr_95: -3226687339801462757
+      Satyr_96: -6402824858016239070
+      Satyr_97: 4773659971643172743
+      Satyr_98: 8820248867488806923
+      Satyr_99: 6879142839453417356
+      Satyr_R0_C0: -828884662515627168
+      Satyr_R0_C1: 463894001572451250
+      Satyr_R0_C2: -6798081555360156380
+      Satyr_R0_C3: 7640569072037935293
+      Satyr_R0_C4: -479000774937584061
+      Satyr_R0_C5: -2801233341079555451
+      Satyr_R0_C6: 2188433258876946078
+      Satyr_R0_C7: -6023839427038055119
+      Satyr_R0_C8: -3400662973947802526
+      Satyr_R0_C9: 366567094368340497
+      Satyr_R10_C0: 5578017639636886622
+      Satyr_R10_C1: 6896709959558203549
+      Satyr_R10_C2: -5821740782220475990
+      Satyr_R10_C3: -7205180671249707857
+      Satyr_R10_C4: 8016807613706666743
+      Satyr_R10_C5: -1200050118220792300
+      Satyr_R10_C6: 6143157808906035284
+      Satyr_R10_C7: 1229005179789213444
+      Satyr_R10_C8: -5258403562608124686
+      Satyr_R10_C9: 4191035158969984926
+      Satyr_R1_C0: -6657289594188671484
+      Satyr_R1_C1: -1880575341928242591
+      Satyr_R1_C2: -6276460773388989526
+      Satyr_R1_C3: 3707665620491717514
+      Satyr_R1_C4: 7495509684975008999
+      Satyr_R1_C5: -8412520347782249731
+      Satyr_R1_C6: 1590054575698300761
+      Satyr_R1_C7: -831578764133115722
+      Satyr_R1_C8: -4242142491280439903
+      Satyr_R1_C9: -6829426389431821305
+      Satyr_R2_C0: 8208172972721939878
+      Satyr_R2_C1: -8851319365740954584
+      Satyr_R2_C2: -8455694344626074010
+      Satyr_R2_C3: 7238553047770315237
+      Satyr_R2_C4: 8792573329952979307
+      Satyr_R2_C5: -8687419299038344915
+      Satyr_R2_C6: -5590727885388801892
+      Satyr_R2_C7: 3498030685322284453
+      Satyr_R2_C8: -4919206449696300777
+      Satyr_R2_C9: -7377925702533871103
+      Satyr_R3_C0: 2360100990578141951
+      Satyr_R3_C1: 4148174143503682439
+      Satyr_R3_C2: -2458445740341926404
+      Satyr_R3_C3: 1067042038617158504
+      Satyr_R3_C4: -1584900456506397662
+      Satyr_R3_C5: 5656797508111042294
+      Satyr_R3_C6: 3469738518114173410
+      Satyr_R3_C7: 1307391363536590490
+      Satyr_R3_C8: 5595926343876084408
+      Satyr_R3_C9: 6781222975818929063
+      Satyr_R4_C0: 452478002412363307
+      Satyr_R4_C1: 380767257273874610
+      Satyr_R4_C2: -416640726739958608
+      Satyr_R4_C3: 4472876937027105662
+      Satyr_R4_C4: 7276995828547325210
+      Satyr_R4_C5: -6401903243638375735
+      Satyr_R4_C6: -2383942291150674441
+      Satyr_R4_C7: -382591998298350312
+      Satyr_R4_C8: 600389360962779520
+      Satyr_R4_C9: -2747475782750329436
+      Satyr_R5_C0: -6480583995426506649
+      Satyr_R5_C1: -5818377466728213811
+      Satyr_R5_C2: 5863470162664083895
+      Satyr_R5_C3: 1938680098218386882
+      Satyr_R5_C4: -5359501900817377811
+      Satyr_R5_C5: -5489642646269528276
+      Satyr_R5_C6: 3387252860752025123
+      Satyr_R5_C7: 4697127473841662244
+      Satyr_R5_C8: 8601520687855945744
+      Satyr_R5_C9: 2955476625935210357
+      Satyr_R6_C0: -8422426956944058047
+      Satyr_R6_C1: -9181540949179408738
+      Satyr_R6_C2: -6760042426829390546
+      Satyr_R6_C3: 2399610669086636129
+      Satyr_R6_C4: -4542043696978155525
+      Satyr_R6_C5: -7204712728415330199
+      Satyr_R6_C6: 4488248414170933226
+      Satyr_R6_C7: -1432148826287390547
+      Satyr_R6_C8: -2368306789481456229
+      Satyr_R6_C9: -3453935433790634
+      Satyr_R7_C0: 429099989392934303
+      Satyr_R7_C1: -7700080245532932386
+      Satyr_R7_C2: 1350069840584142184
+      Satyr_R7_C3: 1407669772327418450
+      Satyr_R7_C4: 9063502740388068783
+      Satyr_R7_C5: 4846538792511733715
+      Satyr_R7_C6: -127564668026664084
+      Satyr_R7_C7: 9098553240888729179
+      Satyr_R7_C8: 6572742095215137057
+      Satyr_R7_C9: 8549507294744588681
+      Satyr_R8_C0: -1351972212189163734
+      Satyr_R8_C1: -7340447371141340824
+      Satyr_R8_C2: -1141922644223870659
+      Satyr_R8_C3: 8367580410293019585
+      Satyr_R8_C4: 3042235877364188145
+      Satyr_R8_C5: -8338303016280550207
+      Satyr_R8_C6: -5348323647159925134
+      Satyr_R8_C7: 4598347161325836087
+      Satyr_R8_C8: 6492889394162336696
+      Satyr_R8_C9: -4828919822784678600
+      Satyr_R9_C0: -2750680650376583006
+      Satyr_R9_C1: 4871434038289086062
+      Satyr_R9_C2: 4907759876140380599
+      Satyr_R9_C3: -8411289188580681182
+      Satyr_R9_C4: 5036012792807709820
+      Satyr_R9_C5: -1959993508048578172
+      Satyr_R9_C6: -8693082886739214531
+      Satyr_R9_C7: 7941598695401437525
+      Satyr_R9_C8: -7297498041957763495
+      Satyr_R9_C9: -5502061838597747789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

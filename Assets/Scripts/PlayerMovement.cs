@@ -84,7 +84,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void LoadSatyrSprites()
     {
-        Object[] allAssets = UnityEditor.AssetDatabase.LoadAllAssetsAtPath("Assets/Sprites/SATYR_sprite_sheet/SPRITE_SHEET.png");
+        Sprite[] allAssets = Resources.LoadAll<Sprite>("SATYR_sprite_sheet/SPRITE_SHEET");
         if (allAssets == null || allAssets.Length == 0) return;
 
         idleSprites = LoadRowSprites(allAssets, 0);
@@ -105,13 +105,13 @@ public class PlayerMovement : MonoBehaviour
         SetAnimation(idleSprites);
     }
 
-    private Sprite[] LoadRowSprites(Object[] assets, int row)
+    private Sprite[] LoadRowSprites(Sprite[] assets, int row)
     {
         var list = new System.Collections.Generic.List<Sprite>();
         string prefix = $"Satyr_R{row}_C";
-        foreach (Object obj in assets)
+        foreach (Sprite s in assets)
         {
-            if (obj is Sprite s && s.name.StartsWith(prefix))
+            if (s != null && s.name.StartsWith(prefix))
                 list.Add(s);
         }
         list.Sort((a, b) => GetColIndex(a.name).CompareTo(GetColIndex(b.name)));

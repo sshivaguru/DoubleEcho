@@ -19,7 +19,7 @@ public class RowAnimationViewer : MonoBehaviour
 
     private void LoadRowSprites()
     {
-        Object[] allAssets = UnityEditor.AssetDatabase.LoadAllAssetsAtPath("Assets/Sprites/SATYR_sprite_sheet/SPRITE_SHEET.png");
+        Sprite[] allAssets = Resources.LoadAll<Sprite>("SATYR_sprite_sheet/SPRITE_SHEET");
         if (allAssets == null || allAssets.Length == 0) return;
 
         System.Collections.Generic.List<Sprite> list = new System.Collections.Generic.List<Sprite>();
@@ -43,12 +43,12 @@ public class RowAnimationViewer : MonoBehaviour
         }
     }
 
-    private void AddSpritesForPrefix(Object[] assets, System.Collections.Generic.List<Sprite> list, string prefix)
+    private void AddSpritesForPrefix(Sprite[] assets, System.Collections.Generic.List<Sprite> list, string prefix)
     {
         System.Collections.Generic.List<Sprite> subList = new System.Collections.Generic.List<Sprite>();
-        foreach (Object obj in assets)
+        foreach (Sprite s in assets)
         {
-            if (obj is Sprite s && s.name.StartsWith(prefix))
+            if (s != null && s.name.StartsWith(prefix))
             {
                 subList.Add(s);
             }
